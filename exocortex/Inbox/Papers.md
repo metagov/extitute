@@ -1,0 +1,1 @@
+... can be referenced in context, but stored as media files just like any other file in `Media`
